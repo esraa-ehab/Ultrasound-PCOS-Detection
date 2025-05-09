@@ -3,8 +3,8 @@
 This project applies **deep learning** and **transfer learning** techniques to detect **Polycystic Ovary Syndrome (PCOS)** using ultrasound images. By leveraging powerful pre-trained models like **MobileNetV2** and **EfficientNetV2B3**, the project aims to assist healthcare professionals in early and accurate diagnosis of PCOS.
 
 <p align="center">
-  <img src="test.png" width="10%" style="margin-right: 10px;"/>
-  <img src="result.png" width="10%"/>
+  <img src="test.png" width="15%" style="margin-right: 10px;"/>
+  <img src="result.png" width="15%"/>
 </p>
 
 
