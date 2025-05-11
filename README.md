@@ -55,6 +55,7 @@ Develop a high-accuracy image classification model to detect PCOS using pelvic u
 | **Test Accuracy**  | 99.88%      | 99.65%           |
 
 Both models performed exceptionally well, with **MobileNetV2 slightly outperforming** EfficientNetV2B3 in this task.
+Models can be found [here](https://drive.google.com/drive/folders/1fZI52S06nO62AZTbEZ6vP65BjZNtkhFs?usp=sharing)
 
 ---
 
