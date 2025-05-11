@@ -69,7 +69,7 @@ pip install tensorflow matplotlib seaborn numpy
 
 ## 👩‍🔬 Authors
 
-This project was developed as part of a university graduation project focusing on AI-driven early PCOS detection using both clinical data and ultrasound images, delivering fast, accessible, and accurate health insights.
+This project was developed as part of a  project focusing on AI-driven early PCOS detection using both clinical data and ultrasound images, delivering fast, accessible, and accurate health insights.
  Key AI Features:
 • PCOD Detection from Ultrasound:
  Deep learning analyzes ovarian ultrasound images to identify cystic structures — offering high-accuracy, image-based diagnosis, even in subtle or asymptomatic cases.
@@ -79,8 +79,6 @@ Machine learning models (best: Random Forest) predict PCOS from user-reported sy
  Speech recognition + NLP help users find doctors using simple voice commands.
 • Symptom Tracking
 AI learns from symptom patterns over time to deliver personalized health alerts and recommendations.
-
-**University**: Faculty of Computer Science and Artificial Intelligence, Banha University
 
 
 
